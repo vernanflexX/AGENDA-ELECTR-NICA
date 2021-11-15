@@ -1,0 +1,11 @@
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\bin\Debug\agenda2.exe.config
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\bin\Debug\agenda2.exe
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\bin\Debug\agenda2.pdb
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.csproj.AssemblyReference.cache
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.Properties.Resources.resources
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.csproj.GenerateResource.cache
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.csproj.CoreCompileInputs.cache
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.exe
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.pdb
+C:\Users\ONLY STUDY\Downloads\PROYECTOS VS\agenda2\agenda2\obj\Debug\agenda2.AGENDA.resources
